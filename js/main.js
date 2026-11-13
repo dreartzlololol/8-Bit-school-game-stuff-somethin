@@ -1,0 +1,2 @@
+﻿/* Entry point */
+newGame();frame();
